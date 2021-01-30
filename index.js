@@ -35,7 +35,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
             + 'FN:Kazumi\n' 
             + 'ORG: Remaker XBot;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=6282334297175:+62 822-2938-5434\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=6282229385434:+62 822-2938-5434\n' 
             + 'END:VCARD' 
 prefix = '/'
 blocked = []   
