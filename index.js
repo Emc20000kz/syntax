@@ -33,9 +33,9 @@ const { removeBackgroundFromImageFile } = require('remove.bg')
 const { ind } = require('./language')
 const vcard = 'BEGIN:VCARD\n' 
             + 'VERSION:3.0\n' 
-            + 'FN:Affis Admin\n' 
-            + 'ORG: Pengembang XBot;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=6282334297175:+62 823-3429-7175\n' 
+            + 'FN:Kazumi\n' 
+            + 'ORG: Remaker XBot;\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=6282334297175:+62 822-2938-5434\n' 
             + 'END:VCARD' 
 prefix = '/'
 blocked = []   
